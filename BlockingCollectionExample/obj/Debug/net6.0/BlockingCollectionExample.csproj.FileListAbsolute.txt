@@ -1,0 +1,15 @@
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\bin\Debug\net6.0\BlockingCollectionExample.exe
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\bin\Debug\net6.0\BlockingCollectionExample.deps.json
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\bin\Debug\net6.0\BlockingCollectionExample.runtimeconfig.json
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\bin\Debug\net6.0\BlockingCollectionExample.dll
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\bin\Debug\net6.0\BlockingCollectionExample.pdb
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.csproj.AssemblyReference.cache
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.AssemblyInfoInputs.cache
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.AssemblyInfo.cs
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.csproj.CoreCompileInputs.cache
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.dll
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\refint\BlockingCollectionExample.dll
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.pdb
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\BlockingCollectionExample.genruntimeconfig.cache
+D:\GIT\BlockingCollectionExample\BlockingCollectionExample\obj\Debug\net6.0\ref\BlockingCollectionExample.dll
